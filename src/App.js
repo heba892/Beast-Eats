@@ -4,7 +4,6 @@ import BackG from './components/BackG'
 import HeadLineCards from './HeadLineCards'
 import Food from './components/Food'
 import Category from './components/Category'
-import SignUpSignIn from './components/SignUpSignIn'
 
 const App = () => {
   return (
@@ -15,7 +14,6 @@ const App = () => {
     <Food></Food>
     <Category></Category>
    
-    <SignUpSignIn></SignUpSignIn>
       
     </div>
   )
